@@ -6,6 +6,7 @@ Play around the latest AI technologies
 
 - Download model into `data/models`: https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-GGUF#provided-files
 - Start the model Api: `sh llm/server.sh`
+- Swagger: http://localhost:8000/docs
 
 # Web
 
