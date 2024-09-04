@@ -6,3 +6,4 @@ fastapi==0.105.0
 pydantic_settings==2.1.0
 sse_starlette==1.8.2
 starlette_context==0.3.6
+langchain==0.2.3
