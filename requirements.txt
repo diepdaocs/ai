@@ -7,3 +7,7 @@ pydantic_settings==2.1.0
 sse_starlette==1.8.2
 starlette_context==0.3.6
 langchain==0.2.3
+langchain-community==0.2.4
+langchain-core==0.2.5
+openai==1.33.0
+duckduckgo-search==6.2.11
