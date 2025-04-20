@@ -164,3 +164,4 @@ data
 
 # Pycharm local store
 .idea
+/.webui_secret_key
